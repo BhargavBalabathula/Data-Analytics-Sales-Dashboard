@@ -100,7 +100,7 @@ ________________________________________
 •	✅ Dashboard design best practices 
 ________________________________________
 🖼️ Dashboard Preview
-📌 (Add your screenshot here)
+📌 ([Add your screenshot here](https://github.com/BhargavBalabathula/Data-Analytics-Sales-Dashboard/blob/main/Screenshots/Dashboard_Overview.png))
 ________________________________________
 ✅ Conclusion
 This project highlights my ability to:
