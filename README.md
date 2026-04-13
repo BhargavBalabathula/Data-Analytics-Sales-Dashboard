@@ -5,7 +5,7 @@ ________________________________________
 This project demonstrates an end-to-end data analysis workflow using Power BI, starting from raw, uncleaned sales data to building a fully interactive dashboard.
 🔍 Key stages:
 •	📥 Data Loading 
-•	🧹 Data Cleaning (Power Query) 
+•	🧹 Data Cleaning (Power Query)
 •	🔗 Data Modelling 
 •	🧮 DAX Calculations 
 •	📊 Dashboard Creation 
