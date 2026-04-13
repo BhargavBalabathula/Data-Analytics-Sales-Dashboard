@@ -100,7 +100,7 @@ ________________________________________
 •	✅ Dashboard design best practices 
 ________________________________________
 🖼️ Dashboard Preview
-📌 ([Dashboard Preview Screenshot](https://github.com/BhargavBalabathula/Data-Analytics-Sales-Dashboard/blob/main/Screenshots/Dashboard_Overview.png))
+📌 [Dashboard Preview Screenshot]
 
 ____<img width="928" height="520" alt="Dashboard_Overview" src="https://github.com/user-attachments/assets/aa41557a-16c3-47c1-b9b6-536bf4b33ce0" />
 ____________________________________
