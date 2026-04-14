@@ -102,7 +102,8 @@ ________________________________________
 🖼️ Dashboard Preview
 📌 [Dashboard Preview Screenshot]
 
-____<img width="928" height="520" alt="Dashboard_Overview" src="https://github.com/user-attachments/assets/aa41557a-16c3-47c1-b9b6-536bf4b33ce0" />
+_![Uploading Dashboard_Overview.png…]()
+
 ____________________________________
 ✅ Conclusion
 This project highlights my ability to:
